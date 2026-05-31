@@ -1,0 +1,5 @@
+[submodule "inputs/ds005365"]
+	path = inputs/ds005365
+	url = https://github.com/OpenNeuroDatasets/ds005365.git
+	datalad-id = 74fb67e1-5481-4d89-928b-8dab3bb633ac
+	datalad-url = https://github.com/OpenNeuroDatasets/ds005365.git
