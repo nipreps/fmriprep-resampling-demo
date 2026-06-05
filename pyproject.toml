@@ -1,0 +1,19 @@
+[project]
+name = "ohbm-2026-transform"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "bids2table>=2.1.2",
+    "datalad>=1.4.1",
+    "fmriprep>=25.2.5",
+    "ipython>=9.13.0",
+    "jupyterlab>=4.5.7",
+    "jupytext>=1.19.2",
+    "nest-asyncio>=1.6.0",
+    "nilearn>=0.12.1",
+]
+
+[tool.uv.workspace]
+members = [
+    "ohbm-2026-transform",
+]
